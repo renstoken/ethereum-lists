@@ -1,0 +1,31 @@
+{
+  "symbol": "REN",
+  "name": "Real Estate Network",
+  "type": "ERC20",
+  "address": "0x7905d550edE2B42a26CAE2FB4F81D2AE5a6D3476",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "http://rens.asia",
+  "logo": {
+    "src": "http://rens.asia/anh/ren_logo-28x28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "quangthao@rens.asia", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/rens.asia",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/renstoken",
+    "youtube": ""
+  }
+}
